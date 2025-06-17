@@ -34,11 +34,8 @@ Using the extracted features, an XGBoost classifier is trained to predict the cl
 
 - **Python 3.x**
 - **XGBoost**
-- **Scikit-Learn**
-- **Pandas**
-- **Numpy**
-- **Jupyter Notebook**
-
+- **Cloud services**
+ 
 ---
 
 
